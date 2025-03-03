@@ -12,7 +12,7 @@ Command-line interface (CLI) for user interaction.
 
 
 ## Installation
-1. Clone the repository: git clone https://github.com/MaphuthaMR/Mofokeng-Maphutha_OOFPP
+1. Clone the repository: git clone https://github.com/MaphuthaMR/Mofokeng-Maphutha_OOFPP_Habits
 2. Navigate to the project directory: cd habit-tracking-app
 3. Install dependencies: pip install -r requirements.txt
 
